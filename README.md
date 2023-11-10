@@ -1,7 +1,7 @@
 # *Hello World!! I am Lucas Unzer*
 
 [![Unzerxz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=unzerxz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=unzerxz&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unzerxz&layout=compact&theme=dark" /></a> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
